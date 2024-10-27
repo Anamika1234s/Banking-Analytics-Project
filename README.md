@@ -65,17 +65,6 @@ The following KPIs are included in the analysis:
 - **Average Account Balance**: Calculates the average balance across all customer accounts.
 - **Loan Approval Rate**: Indicates the percentage of loan applications approved versus those submitted.
 - **Customer Satisfaction Score**: A measure of customer satisfaction based on surveys and feedback.
-
-## Contributing
-Contributions are welcome! If you would like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- Thank you to the open-source community for providing the tools and libraries that made this project possible.
